@@ -1,0 +1,23 @@
+Read this to install, and please follow all of the steps so that the custom crosshair works correctly. 
+
+First, you want to move this file into your 
+
+Programfilesx86/steam/steamapps/common/teamfortress2/tf/custom folder
+
+Next, navigate to the Programfilesx86/steam/steamapps/common/teamfortress2/tf/custom/Kyle-Hud-Master/resource folder. 
+Here you will find a filed named "Tf2default". This is a font file. Right click on it, and then click "install" to install the font. 
+The Hud WILL NOT WORK unless you do this. 
+
+Next, you must click on the "fonts" folder located in Programfilesx86/steam/steamapps/common/teamfortress2/tf/custom/Kyle-Hud-Master/resource
+Select all of the fonts in this folder, right click, and install. If you have downloaded versions of m0rehud in the past and already have
+some of these fonts installed, just write over them to be safe. 
+
+Once you have completed all of these steps, you should be able to launch the hud with the custom crosshair working. 
+If it does not work, make sure you have all the fonts installed, especially tf2default. 
+
+If you have any questions pertainig the hud and its installation, please contact Giuseppe at http://steamcommunity.com/id/GiuseppeSaroni/
+or you can contact fanom at http://steamcommunity.com/id/146636510/ 
+
+crosshair from Giuseppe guide by Fanom.
+
+Thanks, and enjoy.
